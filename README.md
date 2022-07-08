@@ -1,2 +1,2 @@
 # primeiro_projeto
-Criano o primeiro projeto
+Criano o primeiro projeto.
